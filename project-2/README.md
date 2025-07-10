@@ -1,13 +1,12 @@
-# React Contact Form 🚀
+# 🚀 React Contact Form
 
 A simple and responsive contact form built using **ReactJS**.  
-This project shows how to handle forms, state, and submission in React.
+This project shows how to handle forms, state, and submissions in React.
 
 ---
 
 ## 📸 Screenshot
-
-![![alt text](image.png)](./public/images/contact.svg)
+![alt text](image.png)
 
 ---
 
@@ -18,16 +17,21 @@ This project shows how to handle forms, state, and submission in React.
 - 🎨 Clean and modern CSS styling
 - 📞 Multiple contact options (Chat, Call, Email)
 
+---
+
 ## 🚀 Getting Started
 
-1️⃣ Clone this repository:
+### 1️⃣ Clone this repository
+
 ```bash
-git clone then link..
-2️⃣ Install dependencies:
-```bash
+git clone https://github.com/AnshCyberSec/react-contact-form.git
+
+2️⃣ Install dependencies
+
 npm install
-3️⃣ Run the project:
-```
+
+3️⃣ Run the project
+
 npm run dev
 
 📃 License
